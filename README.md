@@ -2,7 +2,7 @@
 
 Backend Developer focused on building reliable and maintainable software.
 
-I work mainly with Python and Go, and enjoy creating backend services, automation tools and practical projects.
+I work mainly with Python, and enjoy creating backend services, automation tools and practical projects.
 
 ## 🛠️ Skills
 
