@@ -1,4 +1,9 @@
-<!---
-nauseaTT/nauseaTT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm nausea 👋
+
+Backend developer focused on Python and Go.
+
+Working with:
+- Python
+- Go
+- Linux
+- Databases
