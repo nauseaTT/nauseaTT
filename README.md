@@ -6,7 +6,7 @@ I work mainly with Python and Go, and enjoy creating backend services, automatio
 
 ## 🛠️ Skills
 
-<img src="https://skillicons.dev/icons?i=python,go,linux,git,docker,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=python,go,linux,git,sqlite,mysql,postgres" />
 
 ## 💻 What I do
 
