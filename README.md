@@ -1,56 +1,44 @@
-# Hi, I'm nausea 👋
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    🌌 NAUSEA · BACKEND DEVELOPER 🌌                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 🚀 Backend Engineer & Automation Specialist
-
-I am a backend developer dedicated to architecting scalable, efficient, and highly maintainable software solutions. Passionate about clean code principles, performance optimization, and streamlining workflows through automation.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,go" />
-
-### 🗄️ Database Management
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-
-### 🔧 DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=linux,docker,git" />
-
----
-
-## ⚡ Core Expertise
-
-- **Backend Architecture:** Designing robust APIs and microservices.
-- **Automation & Scripting:** Developing complex automation tools and specialized custom bots.
-- **Database Optimization:** Designing efficient schemas and managing relational databases.
-- **Linux Environment:** Customizing, scripting, and deploying systems in Linux-based environments.
-
----
-
-## 📌 Featured Projects
-
-*Here are a few things I've been working on recently:*
-
-*   **[Project Name]** - A brief 1-line catchy description of your best project. *(e.g., A modular Python framework for advanced automation.)*
-*   **[Project Name]** - Another key project showcasing your skills.
-
-> 💡 *Explore my repositories to see full source code and implementations.*
-
----
-
-## 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nausea&show_icons=true&theme=dark" alt="nausea's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nausea&layout=compact&theme=dark" alt="Top Languages" height="180" />
-</p>
-
----
+<a href="https://github.com/nausea">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=nausea&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20·%20Crafting%20Reliable%20Software&descAlignY=58&descAlign=50" />
+</a>
 
 <p align="center">
-  🤝 <strong>Always open to collaborating on interesting backend and automation projects!</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&height=60&lines=Backend+Developer+%E2%9A%99%EF%B8%8F;Python+Craftsman+%F0%9F%90%8D;Automation+Builder+%F0%9F%A4%96;Linux+Explorer+%F0%9F%90%A7;Clean+Code+Advocate+%E2%9C%A8" alt="Typing SVG" />
 </p>
+
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <a href="#-about-me"><img src="https://img.shields.io/badge/About-0F2027?style=for-the-badge&logoColor=white" /></a>
+  <a href="#-tech-arsenal"><img src="https://img.shields.io/badge/Tech-203A43?style=for-the-badge&logoColor=white" /></a>
+  <a href="#-what-i-do"><img src="https://img.shields.io/badge/Work-2C5364?style=for-the-badge&logoColor=white" /></a>
+  <a href="#-github-analytics"><img src="https://img.shields.io/badge/Stats-36BCF7?style=for-the-badge&logoColor=white" /></a>
 </p>
+
+<br>
+
+<!-- ════════════════════════════ ABOUT ════════════════════════════ -->
+
+## 🧑‍💻 About Me
+
+<img align="right" width="280" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="opacity:0.1" />
+
+```python
+class Nausea:
+    """Backend Developer who builds software that lasts."""
+
+    def __init__(self):
+        self.role         = "Backend Developer"
+        self.primary_lang = "Python"
+        self.secondary    = ["Go", "Bash"]
+        self.focus        = ["Backend Services", "Automation", "Databases"]
+        self.environment  = "Linux 🐧"
+
+    @property
+    def philosophy(self) -> str:
+        return "Reliable. Maintainable. Clean."
+
+    def current_mission(self) -> str:
+        return "Turning complex problems into elegant backend solutions 🚀"
