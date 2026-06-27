@@ -1,152 +1,163 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--          ⚡ NAUSEA · CYBERPUNK NEON EDITION ⚡                    -->
+<!--              ◽ NAUSEA · MINIMAL ELEGANT EDITION ◽                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a0033,100:00ff9f&height=240&section=header&text=nausea&fontSize=85&fontColor=00ff9f&animation=twinkling&fontAlignY=40&desc=%3C%2F%3E%20Backend%20Developer%20in%20the%20Neon%20Grid&descAlignY=62&descSize=18" />
+<br>
+
+<h1 align="center">nausea</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=800&color=00FF9F&center=true&vCenter=true&width=700&height=70&lines=%3E+initializing+backend.exe...;%3E+Python+%7C+Go+%7C+Linux+loaded+%E2%9C%93;%3E+building+automation+systems...;%3E+status%3A+ONLINE+%E2%9A%A1" alt="Typing SVG" />
+  <em>Backend Developer · Building reliable & maintainable software</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9f?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/MODE-BACKEND-bf00ff?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/SYSTEM-LINUX-00ff9f?style=for-the-badge&labelColor=000000" />
+  <code>Python</code> &nbsp;·&nbsp; <code>Go</code> &nbsp;·&nbsp; <code>Linux</code> &nbsp;·&nbsp; <code>Automation</code>
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=1200&color=A0A0A0&center=true&vCenter=true&width=500&height=40&lines=Backend+Developer;Clean+code+advocate;Automation+enthusiast;Linux+explorer" alt="Typing SVG" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#stack">Stack</a> &nbsp;·&nbsp;
+  <a href="#work">Work</a> &nbsp;·&nbsp;
+  <a href="#stats">Stats</a>
+</p>
+
+<br>
+<hr>
 <br>
 
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 
-## ◢◤ SYSTEM.INFO
-
-```python
-# ┌──────────────────────────────────────────────┐
-# │  user@neon-grid:~$ ./whoami.py                │
-# └──────────────────────────────────────────────┘
-
-class Nausea:
-    ROLE      = "Backend Developer"
-    STACK     = ["Python", "Go", "Linux"]
-    FOCUS     = ["Backend Services", "Automation", "Databases"]
-    PROTOCOL  = "Clean. Reliable. Maintainable."
-
-    def execute(self):
-        while alive:
-            self.build_backend()
-            self.automate_everything()
-            self.optimize()  # ⚡ never stop
-```
+<h3 id="about">&nbsp;&nbsp;About</h3>
 
 <br>
 
-```diff
-+ Backend systems that never sleep
-+ Automation that eliminates the boring stuff
-! Always exploring the depths of Linux
-# Clean code is non-negotiable
-```
+I'm a **Backend Developer** focused on writing software that's reliable, clean, and built to last.
+
+My main language is **Python**, and I spend my time crafting backend services, automation tools, and practical projects that solve real problems. I care deeply about clean architecture and maintainable code.
 
 <br>
 
-<!-- ═══════════════════════ TECH ═══════════════════════ -->
+```
+  Role        →   Backend Developer
+  Languages   →   Python, Go, Bash
+  Focus       →   Backend · Automation · Databases
+  Environment →   Linux
+  Philosophy  →   Reliable. Maintainable. Clean.
+```
 
-## ◢◤ ARSENAL.SYS
+<br>
+<hr>
+<br>
 
-<div align="center">
+<!-- ═══════════════════════ STACK ═══════════════════════ -->
 
-`LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=python,go,bash" />
-
-`DATABASES`
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
-
-`INFRASTRUCTURE`
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,nginx,vscode" />
-
-</div>
+<h3 id="stack">&nbsp;&nbsp;Tech Stack</h3>
 
 <br>
 
-<!-- ═══════════════════════ WHAT I DO ═══════════════════════ -->
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <p align="center"><b>Languages</b></p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=python,go,bash" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <p align="center"><b>Databases</b></p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <p align="center"><b>Tools</b></p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=linux,docker,git" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-## ◢◤ OPERATIONS.LOG
+<br>
+<hr>
+<br>
 
-```yaml
-operations:
-  - id: 001
-    task: "⚙️  Backend Development"
-    desc: "Robust & scalable server-side systems"
-    status: ACTIVE
+<!-- ═══════════════════════ WORK ═══════════════════════ -->
 
-  - id: 002
-    task: "🤖  Automation Engineering"
-    desc: "Tools that crush repetitive work"
-    status: ACTIVE
+<h3 id="work">&nbsp;&nbsp;What I Do</h3>
 
-  - id: 003
-    task: "🗄️  Database Architecture"
-    desc: "Designing efficient data layers"
-    status: ACTIVE
+<br>
 
-  - id: 004
-    task: "🐧  Linux Mastery"
-    desc: "Living in the terminal"
-    status: ACTIVE
-```
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      &nbsp;&nbsp;<b>Backend Development</b><br>
+      <sub>&nbsp;&nbsp;&nbsp;Robust, scalable server-side systems</sub>
+    </td>
+    <td width="50%" valign="top">
+      &nbsp;&nbsp;<b>Automation</b><br>
+      <sub>&nbsp;&nbsp;&nbsp;Tools that save time and reduce manual work</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td width="50%" valign="top">
+      &nbsp;&nbsp;<b>Database Design</b><br>
+      <sub>&nbsp;&nbsp;&nbsp;Efficient and well-structured data layers</sub>
+    </td>
+    <td width="50%" valign="top">
+      &nbsp;&nbsp;<b>Linux Systems</b><br>
+      <sub>&nbsp;&nbsp;&nbsp;Exploring and mastering the command line</sub>
+    </td>
+  </tr>
+</table>
 
+<br>
+<hr>
 <br>
 
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
 
-## ◢◤ ANALYTICS.DAT
+<h3 id="stats">&nbsp;&nbsp;GitHub Stats</h3>
+
+<br>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nausea&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=00ff9f&icon_color=bf00ff&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nausea&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff9f&text_color=ffffff&langs_count=8" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nausea&theme=highcontrast&hide_border=true&background=0a0a0a&ring=00ff9f&fire=bf00ff&currStreakLabel=00ff9f&sideLabels=ffffff&dates=888888" alt="Streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nausea&theme=high-contrast&bg_color=0a0a0a&color=00ff9f&line=bf00ff&point=ffffff&hide_border=true&area=true" width="95%" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nausea&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=1a1a1a&icon_color=555555&text_color=444444" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nausea&layout=compact&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=444444&langs_count=6" />
 
 </div>
 
 <br>
-
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
-
-## ◢◤ ACHIEVEMENTS.UNLOCKED
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nausea&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-</div>
-
+<hr>
 <br>
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
-## ◢◤ ESTABLISH.CONNECTION
-
-<div align="center">
-
-<a href="https://github.com/nausea"><img src="https://img.shields.io/badge/GitHub-00ff9f?style=for-the-badge&logo=github&logoColor=black" /></a>
-<!-- <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-bf00ff?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
-<!-- <a href="#"><img src="https://img.shields.io/badge/Telegram-00ff9f?style=for-the-badge&logo=telegram&logoColor=black" /></a> -->
-
-</div>
+<h3>&nbsp;&nbsp;Connect</h3>
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nausea&label=VISITORS&color=00ff9f&style=for-the-badge&labelColor=000000" alt="Visitors" />
+  <a href="https://github.com/nausea"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white" /></a>
+  <!-- <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white" /></a> -->
+  <!-- <a href="#"><img src="https://img.shields.io/badge/LinkedIn-555555?style=flat-square&logo=linkedin&logoColor=white" /></a> -->
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff9f,50:1a0033,100:0a0a0a&height=130&section=footer&text=%3E%20connection%20terminated%20_&fontSize=20&fontColor=00ff9f&animation=twinkling&fontAlignY=70" />
+<br>
+<br>
+
+<p align="center">
+  <sub>Thanks for visiting · <img src="https://komarev.com/ghpvc/?username=nausea&label=views&color=lightgrey&style=flat-square" align="center" /></sub>
+</p>
+
+<br>
